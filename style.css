@@ -11,9 +11,11 @@
     }
 }
 
-
 body {
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    
 }
 
 .header {
@@ -73,3 +75,12 @@ body {
     padding: 20px;
 }
 
+/* Footer */
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: rgb(102, 136, 146);
+    color: white;
+ 
+}
